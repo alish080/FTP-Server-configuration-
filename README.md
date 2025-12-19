@@ -27,6 +27,11 @@ This project shows how FTP Server is configured and how files are transferred be
 - Command line interface
 ----------------------------------------------------------------------------------------------------------------------
 
+# Video 
+https://www.youtube.com/watch?v=jGAQ__PCptY
+- every thing is done on this video
+----------------------------------------------------------------------------------------------------------------------
+
 # File include
 - FTP Server Configuration PDF
 - FTP Server Configuration Docx file
